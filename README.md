@@ -17,9 +17,9 @@
     <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatdavid&theme=tokyonight">
 </p>
 
-<h2>
+<h3>
 abc
-</h2>
+</h3>
 
 [website]: https://www.saswatdavid.com
 [linkedin]: https://www.linkedin.com/in/saswatdavid/
