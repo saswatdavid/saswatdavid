@@ -11,8 +11,10 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saswatdavid&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saswatdavid&layout=compact&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=saswatdavid&show_icons=true&theme=tokyonight&line_height=27">
+  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatdavid&theme=tokyonight">
+</p>
 
 [website]: https://www.saswatdavid.com
 [linkedin]: https://www.linkedin.com/in/saswatdavid/
