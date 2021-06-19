@@ -17,8 +17,8 @@
 <h3><ins>Technical Tools</ins></h3>
 <p>
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][git]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][git]
+[<img align="left" alt="SQL" width="26px" src="https://www.insights-solutions.com/wp-content/uploads/2018/11/SQL.png" />][git]
+[<img align="left" alt="MySQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFYZlyKC-i8UFqeeKLpbcmVRhn_jf0w_Nabg&usqp=CAU" />][git]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][git]
 <br />
