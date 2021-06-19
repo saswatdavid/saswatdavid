@@ -3,9 +3,10 @@
 <img src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966" width="500">
 
 ### Let's Connect:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="saswatdavid.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Saswat David | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Saswat David | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Saswat David | Facebook" width="22px" src="https://www.freepngimg.com/download/facebook/62588-and-icons-facebook-computer-black-logo-white.png" />][facebook]
 
 <br />
 
@@ -18,3 +19,4 @@
 [website]: https://www.saswatdavid.com
 [linkedin]: https://www.linkedin.com/in/saswatdavid/
 [instagram]: https://www.instagram.com/saswat.david/
+[facebook]: https://www.facebook.com/saswat.david/
