@@ -18,7 +18,7 @@
 </p>
 
 <h3>
-<u>abc</u>
+<ins>abc</ins>
 </h3>
 
 [website]: https://www.saswatdavid.com
