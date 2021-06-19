@@ -2,6 +2,8 @@
 
 ## I work as a Business Analyst in PharmEasy
 
+<img src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif" width="600">
+
 ### Let's Connect:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
