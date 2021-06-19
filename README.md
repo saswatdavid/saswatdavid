@@ -17,9 +17,9 @@
 <h3><ins>Technical Tools</ins></h3>
 <p>
 
-[<img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/512/919/919852.png" />][git]
+[<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" />][git]
 [<img align="left" alt="R" width="26px" src="https://lh3.googleusercontent.com/proxy/-YhF90jA2MliDawvbgne8Fzh8jq0I2Ha0enGgiXCqhkPEAVzpunYIAIRJDBw4eBci1CkW17CbIzFyNfyfiM3SpsDHJgRyuMyZKh5GOVyjLwBb6zK6RgVKvqiigQwpglrkMxmEUWVa99VVzM9QPc" />][git]
-[<img align="left" alt="GCP" width="26px" src="https://p2zk82o7hr3yb6ge7gzxx4ki-wpengine.netdna-ssl.com/wp-content/uploads/Untitled-design-90.png" />][git]
+[<img align="left" alt="GCP" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGPL14V-IgKNBxmfSXofWDsTEWej2iJ-xRbe4c_GVTG3NagrDD_DPwgSdU11wowvbqSJI&usqp=CAU" />][git]
 [<img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />][git]
 [<img align="left" alt="MySQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFYZlyKC-i8UFqeeKLpbcmVRhn_jf0w_Nabg&usqp=CAU" />][git]
 [<img align="left" alt="Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />][git]
@@ -33,7 +33,6 @@
 [<img align="left" alt="MSTR" width="26px" src="https://d2lp05f39ek59n.cloudfront.net/uploads/MicroStrategy_Cloud_product_img_edit_897548992_MicroStrategy.png" />][git]
 [<img align="left" alt="Tableau" width="26px" src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" />][git]
 [<img align="left" alt="MATLAB" width="26px" src="https://i0.wp.com/tech.msu.edu/wp-content/uploads/2018/11/Icon-Matlab_0.png?fit=230%2C230&ssl=1" />][git]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][git]
 <br />
 
