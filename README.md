@@ -4,8 +4,7 @@
 
 <h3><ins>Let's Connect</ins></h3>
 
-### Let's Connect 2
-
+####
 [<img align="left" alt="saswatdavid.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Saswat David | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Saswat David | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
