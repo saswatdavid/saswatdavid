@@ -12,6 +12,8 @@
 [<img align="left" alt="Saswat David | Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/60/60543.png" />][gmail]
 </p>
 
+<br />
+
 <h3><ins>GitHub Summary</ins></h3>
 <p>
     <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=saswatdavid&show_icons=true&theme=tokyonight&line_height=27">
