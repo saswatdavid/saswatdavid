@@ -6,7 +6,7 @@
 [<img align="left" alt="saswatdavid.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Saswat David | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Saswat David | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Saswat David | Facebook" width="22px" src="https://i.pinimg.com/originals/1b/c6/60/1bc660f82aa56290244939717710357d.png" />][facebook]
+[<img align="left" alt="Saswat David | Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/60/60543.png" />][gmail]
 
 <br />
 
@@ -20,3 +20,4 @@
 [linkedin]: https://www.linkedin.com/in/saswatdavid/
 [instagram]: https://www.instagram.com/saswat.david/
 [facebook]: https://www.facebook.com/saswat.david/
+[gmail]: mailto:saswatdavid@gmail.com
